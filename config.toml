@@ -1,0 +1,35 @@
+title = "Vince's News Blog"
+baseURL = "https://vinceph7.netlify.app/"
+languageCode = "en-us"
+theme = "theme-ananke"
+featured_image = "/images/dawn2.jpg"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "/images/enviroleaf.jpg"
+  site_logo = "/images/enviroleaf.jpg"
+  description = "Cleaning the environment as nature intended."
+  facebook = "https://www.facebook.com/hallvince13@gmail.com"
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-green"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 10
