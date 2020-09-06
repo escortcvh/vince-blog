@@ -1,2 +1,0 @@
-# vince-blog
-my repository
